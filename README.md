@@ -3,8 +3,8 @@
 <p>Screenshot</p>
 
 <p><strong>Links</strong></p>
-Solution URL: Add solution URL here<br>
-Live Site URL: Add live site URL here<br> 
+Live Site URL: https://cwbads22.github.io/femqrcode/index.html
+<br>
 <br>
 <p><strong>My process</strong></p>
 
