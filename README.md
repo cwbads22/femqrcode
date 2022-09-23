@@ -17,7 +17,7 @@ HTML5 markup | CSS custom properties | Flexbox | Mobile-first workflow
 
 <h3>What I learned</h3>
 <p> I learned how to organize the parts <divs> of my project with <strong>flex</strong> and CSS tricks. I also used Responsively Browser<br>
-to keep track of the medias the design should fit (eg, mobile, tablet and laptop/desktop screens). Other important point is, Mobile First<br>
+to keep track of the medias the design should fit (eg, mobile, tablet and laptop/desktop screens). Other important point is, Mobile First
 Design makes things way easier! </p>
 
 <p> Despite it's a newbie challenge, it took a lot of research and time to accomplish, but I'm happy with the final result. Need to study<br>
